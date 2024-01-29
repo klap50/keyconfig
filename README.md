@@ -10,7 +10,7 @@
 curl -sS https://starship.rs/install.sh | sh
 https://starship.rs/
 
- 
+ ## INSTALAR FUENTES NECESARIAS - (estan dentro de la carpeta de FONTS - dentro de FISH [en este repositorio] / modificar segun distro/so.
 
 ### algunos bash script para wireguard y simplificar algunas otras
 
